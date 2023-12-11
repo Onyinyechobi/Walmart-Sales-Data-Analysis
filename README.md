@@ -32,7 +32,6 @@ Unveiling the mysteries in the data, I fixed missing details, organized everythi
 •	Calculated Cost of Goods Sold (COGS)
 •	Computed Value Added Tax (VAT)
 •	Determined Total Sales, Gross Income, and Gross Margin Percentage for each transaction.
-
 ####  What I Uncovered
 I unearthed a treasure trove of insights into how Walmart's sales dynamics play out. From popular products to revenue streams, the data has spilled its secrets.
 Suggestions for Walmart: As I wrap up, here are a few tips to elevate Walmart's retail game:
